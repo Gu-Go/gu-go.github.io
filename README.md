@@ -1,1 +1,1 @@
-Inition Education Solution Testing
+Inition Education Solution

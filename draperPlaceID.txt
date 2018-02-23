@@ -1,4 +1,0 @@
-https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder
-Draper University
-Place ID ChIJn2qKNXCej4ARKq6HBxKQJ7s
-44 E 3rd Ave, San Mateo, CA 94401, USA
